@@ -1,0 +1,20 @@
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\bin\Debug\KalkukatorHafidhNofandi.exe.config
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.Form1.resources
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.Resources.resources
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.vbproj.GenerateResource.Cache
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\bin\Debug\KalkukatorHafidhNofandi.exe
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\bin\Debug\KalkukatorHafidhNofandi.pdb
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\bin\Debug\KalkukatorHafidhNofandi.xml
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.exe
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.xml
+C:\Users\Hafidh\AppData\Local\Temporary Projects\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.pdb
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\bin\Debug\KalkukatorHafidhNofandi.exe.config
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.exe
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.xml
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.pdb
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\bin\Debug\KalkukatorHafidhNofandi.exe
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\bin\Debug\KalkukatorHafidhNofandi.pdb
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\bin\Debug\KalkukatorHafidhNofandi.xml
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.Form1.resources
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.Resources.resources
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\KalkukatorHafidhNofandi\KalkukatorHafidhNofandi\obj\Debug\KalkukatorHafidhNofandi.vbproj.GenerateResource.Cache
